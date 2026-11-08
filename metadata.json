@@ -1,0 +1,7 @@
+{
+  "name": "Affi Car Rent",
+  "description": "Platform sewa mobil modern dan kendaraan listrik (EV) terpercaya di Indonesia dengan proses booking cepat, harga transparan, dan armada terbaru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
